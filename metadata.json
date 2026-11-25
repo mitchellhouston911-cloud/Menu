@@ -1,0 +1,6 @@
+{
+  "name": "GlowVault Finds",
+  "description": "Curated $3.99 viral skincare dupes storefront with automatic bundle discounts, shopping bag, express checkout, and privacy-respecting session replay controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

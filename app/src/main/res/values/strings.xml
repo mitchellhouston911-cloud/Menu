@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">GlowVault Finds</string>
+
+    <!-- Announcement & Navigation -->
+    <string name="announcement_bar">Every Viral Find is $3.99 Flat • Buy 3+ Save 10% • Free Shipping 4+</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_bundle">Bundles &amp; FAQ</string>
+    <string name="nav_privacy">Privacy</string>
+    <string name="bag_label">Bag</string>
+    <string name="cd_open_bag">Open shopping bag</string>
+    <string name="cd_close_bag">Close shopping bag</string>
+    <string name="cd_close_checkout">Close checkout</string>
+    <string name="cd_hero_image">Curated collection of viral pastel skincare serums, whipped moisturizer, and overnight lip mask</string>
+
+    <!-- Hero -->
+    <string name="hero_badge">Winter Restock Live • Ready to Ship</string>
+    <string name="hero_title_lead">Luxury-Inspired Skincare Dupes. </string>
+    <string name="hero_title_accent">$3.99 Flat.</string>
+    <string name="hero_subtitle">Skip the empty shelves and store hunts. Every viral Dollar Tree beauty find in our shop is brand new, factory sealed, and packed in lightweight protective mailers within 24 hours.</string>
+    <string name="hero_cta_shop">Shop $3.99 Bestsellers</string>
+    <string name="hero_cta_bundle">Add Winter 3-Pack ($10.77)</string>
+    <string name="hero_overlay_kicker">Bundle &amp; Save</string>
+    <string name="hero_overlay_copy">Mix any 3 items for 10% off • 4+ ships free</string>
+    <string name="price_each_pill">$3.99 ea</string>
+    <string name="trust_sealed">Factory Sealed</string>
+    <string name="trust_dispatch">24-Hr Dispatch</string>
+    <string name="trust_smoke_free">Smoke-Free Home</string>
+
+    <!-- Catalog -->
+    <string name="catalog_kicker">Curated Viral Inventory</string>
+    <string name="catalog_title">Shop $3.99 Skincare Dupes</string>
+    <string name="compare_to_prefix">Compare to %1$s</string>
+    <string name="featured_in_prefix">Featured in %1$s</string>
+    <string name="add_to_bag_price">Add to Bag — $3.99</string>
+    <string name="in_bag_add_another">In Bag (%1$d) — Add Another</string>
+    <string name="view_details">Details</string>
+
+    <!-- Winter Bundle -->
+    <string name="bundle_kicker">Most Popular Quick-Flip Set</string>
+    <string name="bundle_title">The Winter Glow 3-Pack</string>
+    <string name="bundle_desc">Pair our three highest-demand cold-weather skincare finds in one lightweight mailer and automatically save 10%: Global Beauty Care Power Serum, Dermasil Whipped Recovery Cream, and B. Pure Hydrating Night Lip Mask.</string>
+    <string name="bundle_cta">Add 3-Pack to Bag — $10.77</string>
+    <string name="bundle_original_price">$11.97</string>
+    <string name="bundle_free_ship_tip">Add 1 more item for FREE shipping</string>
+    <string name="marketplace_kicker">Also Selling On</string>
+    <string name="marketplace_desc">Prefer marketplace buyer protection? Grab our exact same factory-sealed bundles on Mercari or Depop.</string>
+    <string name="copy_mercari">Copy Mercari Link</string>
+    <string name="copy_depop">Copy Depop Link</string>
+
+    <!-- FAQ -->
+    <string name="faq_kicker">Buyer Confidence</string>
+    <string name="faq_title">Frequently Asked Questions</string>
+
+    <!-- Privacy & Session Replay -->
+    <string name="replay_kicker">Store Owner Built-In Integration</string>
+    <string name="replay_title">Privacy-Respecting Session Replay</string>
+    <string name="replay_subtitle">Watch how shoppers browse your skincare catalog and optimize conversions without recording personal data. Sensitive checkout inputs are pre-tagged with data-clarity-mask=&quot;true&quot; and ph-no-capture and gated behind visitor consent.</string>
+    <string name="replay_step_provider">1. Choose Free Privacy-First Provider</string>
+    <string name="replay_step_id">2. Enter Your Project ID / Key</string>
+    <string name="replay_id_hint">Updating this live-updates the consent-gated snippet below.</string>
+    <string name="replay_copy_snippet">Copy Consent-Gated Snippet</string>
+    <string name="replay_masking_docs">Masking Docs</string>
+    <string name="replay_highlight_zones">Highlight Masked Zones</string>
+    <string name="replay_highlight_active">Masked Zones Highlighted</string>
+    <string name="replay_reset_banner">Reset Banner</string>
+    <string name="replay_zero_pii">Zero PII Captured</string>
+    <string name="replay_protected_fields">Protected fields: Name, Email, Shipping Address</string>
+    <string name="replay_inspect_checkout">Inspect Masked Checkout Modal →</string>
+
+    <!-- Cart Sheet -->
+    <string name="bag_title">Your Skincare Bag</string>
+    <string name="bag_empty">Your skincare bag is empty.</string>
+    <string name="bag_quick_add_bundle">Quick-Add Winter 3-Pack ($10.77)</string>
+    <string name="bag_subtotal">Subtotal</string>
+    <string name="bag_discount_label">Bundle Discount (10% off 3+)</string>
+    <string name="bag_shipping_label">Lightweight Shipping</string>
+    <string name="bag_shipping_free">FREE</string>
+    <string name="bag_total_label">Estimated Total</string>
+    <string name="bag_proceed_checkout">Proceed to Masked Checkout</string>
+    <string name="bag_remove">Remove</string>
+
+    <!-- Checkout Modal -->
+    <string name="checkout_badge">Session Replay Masked (PII Protected)</string>
+    <string name="checkout_title">Express Order Request</string>
+    <string name="checkout_subtitle">All fields below carry data-clarity-mask=&quot;true&quot; and ph-no-capture so personal data is never captured.</string>
+    <string name="checkout_full_name">Full Name</string>
+    <string name="checkout_email">Email for Tracking</string>
+    <string name="checkout_address">Shipping Address</string>
+    <string name="checkout_items_count">Items in order</string>
+    <string name="checkout_order_total">Order Total</string>
+    <string name="checkout_submit">Reserve Order (Demo Checkout)</string>
+    <string name="checkout_success_title">Order Preview Confirmed!</string>
+    <string name="checkout_success_body">This storefront preview uses in-app demo checkout. Connect Stripe Payment Links, PayPal, or Square when you publish your live shop.</string>
+    <string name="checkout_back_store">Back to Storefront</string>
+
+    <!-- Consent Banner -->
+    <string name="consent_banner_title">Privacy-First Session Replay</string>
+    <string name="consent_banner_body">With your permission, we use anonymized session replay (Microsoft Clarity or PostHog) to improve layout. All form inputs, emails, and addresses are automatically masked.</string>
+    <string name="consent_essential_only">Essential Only</string>
+    <string name="consent_accept">Accept Replay</string>
+
+    <!-- Footer -->
+    <string name="footer_disclaimer">Independent reseller of factory-sealed, budget-friendly skincare finds. Brand comparisons are for informational reference only; we are not affiliated with Drunk Elephant, Glow Recipe, Olay, Sol de Janeiro, or Dollar Tree.</string>
+    <string name="footer_privacy_prefs">Privacy &amp; Replay Preferences</string>
+</resources>
